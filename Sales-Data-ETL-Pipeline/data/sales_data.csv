@@ -1,0 +1,6 @@
+OrderID,Product,Quantity,Price,OrderDate
+1,Apple,10,1.5,2023-01-01
+2,Banana,5,0.5,2023-01-02
+3,Orange,8,0.8,2023-01-03
+4,Apple,15,1.5,2023-01-04
+5,Banana,20,0.5,2023-01-05
